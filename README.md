@@ -1,11 +1,8 @@
 # Ames-Housing-Data
 Price Prediction
 
+## Ames Housing Data and Kaggle Challenge
 
-# DSI 13 Individual Submissions
-## Project 2 - Ames Housing Data and Kaggle Challenge
-# CAPSTONE Submissions
-## COVID-19 and Week 4 Kaggle Challenge
 ---
 ### Problem Statement
 
